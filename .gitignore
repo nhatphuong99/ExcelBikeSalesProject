@@ -1,6 +1,6 @@
-   # Excel temporary lock files (created while the workbook is open)
-   ~$*
+# Excel temporary lock files (created while the workbook is open)
+~$*
 
-   # Windows
-   Thumbs.db
-   Desktop.ini
+# Windows
+Thumbs.db
+Desktop.ini
